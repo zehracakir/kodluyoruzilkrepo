@@ -4,7 +4,8 @@
 ## Installation
 Öncelikle projeyi clonelayın.(Buraya reponuzdan aldığınız link gelecek)
 ```bash
-https://github.com/zehrackr/kodluyoruzilkrepo.git```
+https://github.com/zehrackr/kodluyoruzilkrepo.git
+```
 
 ## Usage
 Projeyi cloneladıktan sonra Visual Stdio Code programında açınız.
