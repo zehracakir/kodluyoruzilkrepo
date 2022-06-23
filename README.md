@@ -1,7 +1,7 @@
 # Kodluyoruz Ilk Repo
 
 ![github]
-(Desktop/hızlıResim.png)
+(https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png)
 
  [Kodluyoruz](https://www.kodluyoruz.org) Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
